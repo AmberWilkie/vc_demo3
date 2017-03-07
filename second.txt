@@ -1,3 +1,4 @@
 Here's some text in second.txt
 
 Here's some conflict text from master.
+Here's some conflict text from second.
